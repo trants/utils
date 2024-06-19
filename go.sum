@@ -1,0 +1,4 @@
+github.com/focela/internal v1.0.0 h1:mEvr+RJmOvhSaosNsci2rhmbLnHXrXcBdIaSZ0yBx2A=
+github.com/focela/internal v1.0.0/go.mod h1:dv2uaGDTgoyn+p37mHNdMI3LS3Ta/a4HqAbnflbjSHQ=
+github.com/focela/multierr v1.0.0 h1:bG8nOor9QWoQZrXVT91N9bLCTyBloM6k/lFBHM34nMI=
+github.com/focela/multierr v1.0.0/go.mod h1:svgAIVqpv/7t4IGuKicy4Ugs8dkdxrxNOzRutJUagmY=
